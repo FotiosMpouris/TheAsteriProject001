@@ -6,6 +6,12 @@ The Asteri Project 001 is the foundation of an expansive narrative-driven experi
 ## Project Vision
 At its core, The Asteri Project 001 is about pushing the boundaries of digital storytelling. While currently non-interactive, this prototype demonstrates the potential for a deeply engaging VR experience. Players will eventually embark on a high-stakes journey through a simulated reality, with the ultimate goal of awakening Asteri, the central figure in this unfolding drama.
 
+## Play the Game
+https://play.unity.com/en/games/97313826-a97a-4d33-9aef-5b9e44bb30c6/webglbuilds
+
+## Watch Trailer
+https://www.youtube.com/watch?v=ih_oQqXkhn4
+
 ## Key Features
 - Dynamic terrain generation system
 - Advanced flight path algorithms
